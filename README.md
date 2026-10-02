@@ -1,3 +1,4 @@
+
 # Yaa-Boakye-Portfolio
 
 
@@ -24,11 +25,15 @@ data visualization, problem‑solving, and turning messy data into clear insight
 - Built KPIs for churn, retention, monthly charges, tenure  
 - Analyzed customer demographics, services, and payment behavior  
 - Identified churn drivers and retention opportunities  
+- View -[Telco Project- Final Yaa B.pdf](https://github.com/user-attachments/files/32973613/Telco.Project-.Final.Yaa.B.pdf)
 
-### HR Analytics Dashboard
+  
+
+### 👥 HR Analytics Dashboard
 **Tools:** Power BI  
-**Dataset:** Kaggle - HR Attrition
---
+**Dataset:** Kaggle – HR Attrition 
+-View- [Power Bi- HR Project one- Final- YB.pdf](https://github.com/user-attachments/files/32973692/Power.Bi-.HR.Project.one-.Final-.YB.pdf)
+
 
 ## 🔹 Contact
 **Email:** yaaboakye3032@gmail.com
